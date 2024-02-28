@@ -69,7 +69,7 @@
 127.0.0.1 ikwordvrachtwagenchauffeur.nl
 127.0.0.1 viaplay.com
 
-# google-ads
+# google-ads-all
 127.0.0.1 s.youtube.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 accounts.google.com
@@ -81,7 +81,7 @@
 127.0.0.1 lh5.googleusercontent.com
 127.0.0.1 lh6.googleusercontent.com
 
-# mix
+# mix-all
 127.0.0.1 s.yimg.com
 127.0.0.1 player.vimeo.com
 127.0.0.1 proftrafficcounter.com
