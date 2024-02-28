@@ -70,9 +70,10 @@
 127.0.0.1 viaplay.com
 ========================================
 # google-ads
+127.0.0.1 s.youtube.com
 127.0.0.1 ade.googlesyndication.com
-127.0.0.1       accounts.google.com
-127.0.0.1  www.googleadservices.com
+127.0.0.1 accounts.google.com
+127.0.0.1 www.googleadservices.com
 127.0.0.1 lh1.googleusercontent.com
 127.0.0.1 lh2.googleusercontent.com
 127.0.0.1 lh3.googleusercontent.com
