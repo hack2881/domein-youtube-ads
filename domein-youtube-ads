@@ -1,3 +1,6 @@
+127.0.0.1  localhost
+::1  localhost
+
 # [googlevideo.com]
 127.0.0.1 r1---sn-5hnekn76.googlevideo.com
 127.0.0.1 r2---sn-5hnekn76.googlevideo.com
@@ -53,27 +56,130 @@
 127.0.0.1 rr4---sn-5hne6nzs.googlevideo.com
 127.0.0.1 rr5---sn-5hne6nzs.googlevideo.com
 
-# [promo-video-ads]
+# [ah.nl]
+127.0.0.1 s.ah.nl
+127.0.0.1 m.ah.nl
+127.0.0.1 static.ah.nl
+
+# [adroll.com]
+127.0.0.1 s.adroll.com
+
+# [deepl.com]
+127.0.0.1 s.deepl.com
+
+# [gishan.cc]
+127.0.0.1 s.gishan.cc
+
+# [mpulse.net]
+127.0.0.1 s.go-mpulse.net
+127.0.0.1 s2.go-mpulse.net
+
+# [lenovo.com]
+127.0.0.1 s.lenovo.com
+
+# [magsrv.com]
+127.0.0.1 s.magsrv.com
+
+# [bol.com]
+127.0.0.1 s.s-bol.com
+
+# [w.org]
+127.0.0.1 s.w.org
+
+# [histats.com]
+127.0.0.1 s10.histats.com
+
+# [postimg.cc]
+127.0.0.1 s6.postimg.cc
+
+# [addthis.com]
+127.0.0.1 s7.addthis.com
+
+# [ziggo.nl]
 127.0.0.1 s.ziggo.nl
 127.0.0.1 m.ziggo.nl
-127.0.0.1 suggestqueries.google.com
+
+# [provely.io]
 127.0.0.1 app.provely.io
+
+# [kevintimmerdaytrading.nl]
 127.0.0.1 www.kevintimmerdaytrading.nl
+
+# [parajumpers.it]
 127.0.0.1 www.parajumpers.it
-127.0.0.1 ade.googlesyndication.com
+
+# [jacks.nl]
 127.0.0.1 jacks.nl
+
+# [ad.nl]
 127.0.0.1 ad.nl
+
+# [co.uk]
 127.0.0.1 ad-delivery.co.uk
+
+# [staradvertiser.com]
 127.0.0.1 staradvertiser.com
+
+# [doubleclick.net]
+127.0.0.1 doubleclick.net
+127.0.0.1 accounts.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad-emea.doubleclick.net
+127.0.0.1 ff.doubleclick.net
+127.0.0.1 fls.doubleclick.net
+127.0.0.1 3662625.fls.doubleclick.net
+127.0.0.1 4440954.fls.doubleclick.net
+127.0.0.1 4754223.fls.doubleclick.net
+127.0.0.1 5169604.fls.doubleclick.net
+127.0.0.1 5546714.fls.doubleclick.net
+127.0.0.1 6355556.fls.doubleclick.net
+127.0.0.1 8006110.fls.doubleclick.net
+127.0.0.1 8463158.fls.doubleclick.net
+127.0.0.1 9075940.fls.doubleclick.net
+127.0.0.1 9954979.fls.doubleclick.net
+127.0.0.1 5290727.fls.doubleclick.net
+127.0.0.1 8168974.fls.doubleclick.net
+127.0.0.1 8397396.fls.doubleclick.net
+127.0.0.1 g.doubleclick.net
+127.0.0.1 adx.g.doubleclick.net
+127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 googleads4.g.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 survey.g.doubleclick.net
+127.0.0.1 dart.l.doubleclick.net
+127.0.0.1 m.doubleclick.net
+127.0.0.1 s0.doubleclick.net
+127.0.0.1 static.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 10744046.fls.doubleclick.net
+127.0.0.1 11821217.fls.doubleclick.net
+
+# [ikwordvrachtwagenchauffeur.nl]
 127.0.0.1 ikwordvrachtwagenchauffeur.nl
+
+# [viaplay.com]
 127.0.0.1 viaplay.com
 
-# [google-ads-all]
+# [youtube.com]
 127.0.0.1 s.youtube.com
+
+# [googlesyndication.com]
 127.0.0.1 ade.googlesyndication.com
+127.0.0.1 ade.googlesyndication.com
+
+# [google.com]
 127.0.0.1 accounts.google.com
+127.0.0.1 suggestqueries.google.com
+127.0.0.1 adservice.google.com
+
+# [googleadservices.com]
 127.0.0.1 www.googleadservices.com
+
+# [googleusercontent.com]
 127.0.0.1 lh1.googleusercontent.com
 127.0.0.1 lh2.googleusercontent.com
 127.0.0.1 lh3.googleusercontent.com
@@ -81,10 +187,42 @@
 127.0.0.1 lh5.googleusercontent.com
 127.0.0.1 lh6.googleusercontent.com
 
-# [mix-all]
+# [yimg.com]
 127.0.0.1 s.yimg.com
+
+# [vimeo.com]
 127.0.0.1 player.vimeo.com
+
+# [proftrafficcounter.com]
 127.0.0.1 proftrafficcounter.com
+
+# [linkedin.com]
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px4.ads.linkedin.com
+
+# [threatminer.org]
 127.0.0.1 www.threatminer.org
+
+# [campagne.nl]
+127.0.0.1 vps1.campagne.nl
+
+# [pubmatic.com]
+127.0.0.1 ads.pubmatic.com
+
+# [tiktok.com]
+127.0.0.1 ads.tiktok.com
+
+# [yieldmo.com]
+127.0.0.1 ads.yieldmo.com
+
+# [adcolony.com]
+127.0.0.1 ads30.adcolony.com
+
+# [media.net]
+adservetx.media.net
+
+# [amazonaws.com]
+127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 s3.eu-central-1.amazonaws.com
+127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 advertising-api-eu.amazon.com
