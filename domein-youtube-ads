@@ -59,7 +59,7 @@
 # [ah.nl]
 127.0.0.1 s.ah.nl
 127.0.0.1 m.ah.nl
-127.0.0.1 static.ah.nl
+127.0.0.1 static-ah.nl
 
 # [adroll.com]
 127.0.0.1 s.adroll.com
@@ -231,3 +231,8 @@ adservetx.media.net
 
 # [money2work.com]
 127.0.0.1 go.money2work.com
+
+# [jumbo.com]
+127.0.0.1 s.jumbo.com
+127.0.0.1 m.jumbo.com
+127.0.0.1 static-images.jumbo.com
