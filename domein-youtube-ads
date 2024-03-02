@@ -98,6 +98,7 @@
 # [ziggo.nl]
 127.0.0.1 s.ziggo.nl
 127.0.0.1 m.ziggo.nl
+127.0.0.1 www.ziggo.nl
 
 # [provely.io]
 127.0.0.1 app.provely.io
@@ -172,6 +173,7 @@
 127.0.0.1 ade.googlesyndication.com
 
 # [google.com]
+127.0.0.1 dl.google.com
 127.0.0.1 accounts.google.com
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 adservice.google.com
@@ -226,3 +228,6 @@ adservetx.media.net
 127.0.0.1 s3.eu-central-1.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 advertising-api-eu.amazon.com
+
+# [money2work.com]
+127.0.0.1 go.money2work.com
