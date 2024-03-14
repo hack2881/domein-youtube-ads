@@ -1,60 +1,10 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# [googlevideo.com]
-127.0.0.1 r1---sn-5hnekn76.googlevideo.com
-127.0.0.1 r2---sn-5hnekn76.googlevideo.com
-127.0.0.1 r3---sn-5hnekn76.googlevideo.com
-127.0.0.1 r4---sn-5hnekn76.googlevideo.com
-127.0.0.1 r5---sn-5hnekn76.googlevideo.com
-============================================
-127.0.0.1 r1---sn-5hne6n6l.googlevideo.com
-127.0.0.1 r2---sn-5hne6n6l.googlevideo.com
-127.0.0.1 r3---sn-5hne6n6l.googlevideo.com
-127.0.0.1 r4---sn-5hne6n6l.googlevideo.com
-127.0.0.1 r5---sn-5hne6n6l.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hne6n6l.googlevideo.com
-127.0.0.1 rr2---sn-5hne6n6l.googlevideo.com
-127.0.0.1 rr3---sn-5hne6n6l.googlevideo.com
-127.0.0.1 rr4---sn-5hne6n6l.googlevideo.com
-127.0.0.1 rr5---sn-5hne6n6l.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hne6nzk.googlevideo.com
-127.0.0.1 rr2---sn-5hne6nzk.googlevideo.com
-127.0.0.1 rr3---sn-5hne6nzk.googlevideo.com
-127.0.0.1 rr4---sn-5hne6nzk.googlevideo.com
-127.0.0.1 rr5---sn-5hne6nzk.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hnednss.googlevideo.com
-127.0.0.1 rr2---sn-5hnednss.googlevideo.com
-127.0.0.1 rr3---sn-5hnednss.googlevideo.com
-127.0.0.1 rr4---sn-5hnednss.googlevideo.com
-127.0.0.1 rr5---sn-5hnednss.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hne6n6e.googlevideo.com
-127.0.0.1 rr2---sn-5hne6n6e.googlevideo.com
-127.0.0.1 rr3---sn-5hne6n6e.googlevideo.com
-127.0.0.1 rr4---sn-5hne6n6e.googlevideo.com
-127.0.0.1 rr5---sn-5hne6n6e.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hne6nzd.googlevideo.com
-127.0.0.1 rr2---sn-5hne6nzd.googlevideo.com
-127.0.0.1 rr3---sn-5hne6nzd.googlevideo.com
-127.0.0.1 rr4---sn-5hne6nzd.googlevideo.com
-127.0.0.1 rr5---sn-5hne6nzd.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hnednss.googlevideo.com
-127.0.0.1 rr2---sn-5hnednss.googlevideo.com
-127.0.0.1 rr3---sn-5hnednss.googlevideo.com
-127.0.0.1 rr4---sn-5hnednss.googlevideo.com
-127.0.0.1 rr5---sn-5hnednss.googlevideo.com
-============================================
-127.0.0.1 rr1---sn-5hne6nzs.googlevideo.com
-127.0.0.1 rr2---sn-5hne6nzs.googlevideo.com
-127.0.0.1 rr3---sn-5hne6nzs.googlevideo.com
-127.0.0.1 rr4---sn-5hne6nzs.googlevideo.com
-127.0.0.1 rr5---sn-5hne6nzs.googlevideo.com
+# [ad-delivery]
+127.0.0.1 ad-delivery.net
+127.0.0.1 ad-delivery.com
+127.0.0.1 ad-delivery.co.uk
 
 # [ah.nl]
 127.0.0.1 s.ah.nl
@@ -188,6 +138,7 @@
 
 # [youtube.com]
 127.0.0.1 s.youtube.com
+127.0.0.1 ads.youtube.com
 
 # [googlesyndication.com]
 127.0.0.1 ade.googlesyndication.com
@@ -201,14 +152,6 @@
 
 # [googleadservices.com]
 127.0.0.1 www.googleadservices.com
-
-# [googleusercontent.com]
-127.0.0.1 lh1.googleusercontent.com
-127.0.0.1 lh2.googleusercontent.com
-127.0.0.1 lh3.googleusercontent.com
-127.0.0.1 lh4.googleusercontent.com
-127.0.0.1 lh5.googleusercontent.com
-127.0.0.1 lh6.googleusercontent.com
 
 # [yimg.com]
 127.0.0.1 s.yimg.com
@@ -246,6 +189,16 @@ adservetx.media.net
 
 # [amazonaws.com]
 127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 aax-fe-retail-direct.amazon-adsystem.com
+127.0.0.1 aax-us-west.amazon-adsystem.com
+127.0.0.1 cdn-t.amazon-adsystem.com
+127.0.0.1 imdb.amazon-adsystem.com
+127.0.0.1 ir-fr.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 rcm-na.amazon-adsystem.com
+127.0.0.1 vq-us-east-1.amazon-adsystem.com
+127.0.0.1 ws-fe.amazon-adsystem.com
+127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 s3.eu-central-1.amazonaws.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 advertising-api-eu.amazon.com
@@ -257,3 +210,25 @@ adservetx.media.net
 127.0.0.1 s.jumbo.com
 127.0.0.1 m.jumbo.com
 127.0.0.1 static-images.jumbo.com
+
+# [ads]
+127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.nl
+127.0.0.1 ads.eu.criteo.com
+127.0.0.1 events.ads.vungle.com
+
+# [smartadserver]
+127.0.0.1 rtb-csync.smartadserver.com
+
+# [adform]
+127.0.0.1 adx.adform.net
+127.0.0.1 a2-38-65-20-19.adform.net
+127.0.0.1 adx3.adform.net
+127.0.0.1 carrefour.adform.net
+127.0.0.1 cm3.adform.net
+127.0.0.1 edc.adform.net
+127.0.0.1 hm.adform.net
+127.0.0.1 mail1.adform.net
+127.0.0.1 s2.adform.net
+127.0.0.1 track.adform.net
+127.0.0.1 xd.adform.net
