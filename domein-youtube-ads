@@ -146,7 +146,6 @@
 
 # [google.com]
 127.0.0.1 dl.google.com
-127.0.0.1 accounts.google.com
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 adservice.google.com
 
