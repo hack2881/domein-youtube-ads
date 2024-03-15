@@ -1,6 +1,3 @@
-127.0.0.1  localhost
-::1  localhost
-
 # [ad-delivery]
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad-delivery.com
