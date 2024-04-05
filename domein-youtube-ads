@@ -148,9 +148,6 @@
 # [googleadservices]
 127.0.0.1 www.googleadservices.com
 
-# [yimg]
-127.0.0.1 s.yimg.com
-
 # [vimeo]
 127.0.0.1 player.vimeo.com
 
