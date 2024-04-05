@@ -138,7 +138,6 @@
 
 # [googlesyndication]
 127.0.0.1 ade.googlesyndication.com
-127.0.0.1 ade.googlesyndication.com
 
 # [google]
 127.0.0.1 dl.google.com
