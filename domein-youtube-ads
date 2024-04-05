@@ -3,72 +3,72 @@
 127.0.0.1 ad-delivery.com
 127.0.0.1 ad-delivery.co.uk
 
-# [ah.nl]
+# [ah]
 127.0.0.1 s.ah.nl
 127.0.0.1 m.ah.nl
 127.0.0.1 static-ah.nl
 
-# [adroll.com]
+# [adroll]
 127.0.0.1 s.adroll.com
 
-# [deepl.com]
+# [deepl]
 127.0.0.1 s.deepl.com
 
-# [gishan.cc]
+# [gishan]
 127.0.0.1 s.gishan.cc
 
-# [mpulse.net]
+# [mpulse]
 127.0.0.1 s.go-mpulse.net
 127.0.0.1 s2.go-mpulse.net
 
-# [lenovo.com]
+# [lenovo]
 127.0.0.1 s.lenovo.com
 
-# [magsrv.com]
+# [magsrv]
 127.0.0.1 s.magsrv.com
 
-# [bol.com]
+# [bol]
 127.0.0.1 s.s-bol.com
 
-# [w.org]
+# [w]
 127.0.0.1 s.w.org
 
-# [histats.com]
+# [histats]
 127.0.0.1 s10.histats.com
 
-# [postimg.cc]
+# [postimg]
 127.0.0.1 s6.postimg.cc
 
-# [addthis.com]
+# [addthis]
 127.0.0.1 s7.addthis.com
 
-# [ziggo.nl]
+# [ziggo]
 127.0.0.1 s.ziggo.nl
 127.0.0.1 m.ziggo.nl
 127.0.0.1 www.ziggo.nl
 
-# [provely.io]
+# [provely]
 127.0.0.1 app.provely.io
 
-# [kevintimmerdaytrading.nl]
+# [kevintimmerdaytrading]
 127.0.0.1 www.kevintimmerdaytrading.nl
 
-# [parajumpers.it]
+# [parajumpers]
 127.0.0.1 www.parajumpers.it
 
-# [jacks.nl]
+# [jacks]
 127.0.0.1 jacks.nl
 
-# [ad.nl]
+# [ad]
 127.0.0.1 ad.nl
 
-# [co.uk]
+# [co]
 127.0.0.1 ad-delivery.co.uk
 
-# [staradvertiser.com]
+# [staradvertiser]
 127.0.0.1 staradvertiser.com
 
-# [doubleclick.net]
+# [doubleclick]
 127.0.0.1 doubleclick.net
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 ad.doubleclick.net
@@ -127,63 +127,62 @@
 127.0.0.1 8937654.fls.doubleclick.net
 127.0.0.1 9835822.fls.doubleclick.net
 
-# [ikwordvrachtwagenchauffeur.nl]
+# [ikwordvrachtwagenchauffeur]
 127.0.0.1 ikwordvrachtwagenchauffeur.nl
 
-# [viaplay.com]
+# [viaplay]
 127.0.0.1 viaplay.com
 
-# [youtube.com]
-127.0.0.1 s.youtube.com
+# [youtube]
 127.0.0.1 ads.youtube.com
 
-# [googlesyndication.com]
+# [googlesyndication]
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 ade.googlesyndication.com
 
-# [google.com]
+# [google]
 127.0.0.1 dl.google.com
 127.0.0.1 suggestqueries.google.com
 127.0.0.1 adservice.google.com
 
-# [googleadservices.com]
+# [googleadservices]
 127.0.0.1 www.googleadservices.com
 
-# [yimg.com]
+# [yimg]
 127.0.0.1 s.yimg.com
 
-# [vimeo.com]
+# [vimeo]
 127.0.0.1 player.vimeo.com
 
-# [proftrafficcounter.com]
+# [proftrafficcounter]
 127.0.0.1 proftrafficcounter.com
 
-# [linkedin.com]
+# [linkedin]
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px4.ads.linkedin.com
 
-# [threatminer.org]
+# [threatminer]
 127.0.0.1 www.threatminer.org
 
-# [campagne.nl]
+# [campagne]
 127.0.0.1 vps1.campagne.nl
 
-# [pubmatic.com]
+# [pubmatic]
 127.0.0.1 ads.pubmatic.com
 
-# [tiktok.com]
+# [tiktok]
 127.0.0.1 ads.tiktok.com
 
-# [yieldmo.com]
+# [yieldmo]
 127.0.0.1 ads.yieldmo.com
 
-# [adcolony.com]
+# [adcolony]
 127.0.0.1 ads30.adcolony.com
 
-# [media.net]
+# [media]
 adservetx.media.net
 
-# [amazonaws.com]
+# [amazonaws]
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 aax-fe-retail-direct.amazon-adsystem.com
 127.0.0.1 aax-us-west.amazon-adsystem.com
@@ -199,10 +198,10 @@ adservetx.media.net
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 advertising-api-eu.amazon.com
 
-# [money2work.com]
+# [money2work]
 127.0.0.1 go.money2work.com
 
-# [jumbo.com]
+# [jumbo]
 127.0.0.1 s.jumbo.com
 127.0.0.1 m.jumbo.com
 127.0.0.1 static-images.jumbo.com
