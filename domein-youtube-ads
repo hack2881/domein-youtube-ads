@@ -145,10 +145,7 @@
 127.0.0.1 adservice.google.com
 
 # [googleadservices]
-127.0.0.1 www.googleadservices.com
-
-# [vimeo]
-127.0.0.1 player.vimeo.com
+127.0.0.1 googleadservices.com
 
 # [proftrafficcounter]
 127.0.0.1 proftrafficcounter.com
