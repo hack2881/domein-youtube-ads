@@ -1,74 +1,74 @@
-# [ad-delivery]
+#     [ad-delivery]
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-delivery.com
 0.0.0.0 ad-delivery.co.uk
 
-# [ah]
+#     [ah]
 0.0.0.0 s.ah.nl
 0.0.0.0 m.ah.nl
 0.0.0.0 static-ah.nl
 
-# [adroll]
+#     [adroll]
 0.0.0.0 s.adroll.com
 
-# [deepl]
+#     [deepl]
 0.0.0.0 s.deepl.com
 
-# [gishan]
+#     [gishan]
 0.0.0.0 s.gishan.cc
 
-# [mpulse]
+#     [mpulse]
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 s2.go-mpulse.net
 
-# [lenovo]
+#     [lenovo]
 0.0.0.0 s.lenovo.com
 
-# [magsrv]
+#     [magsrv]
 0.0.0.0 s.magsrv.com
 
-# [bol]
+#     [bol]
 0.0.0.0 s.s-bol.com
 
-# [w]
+#     [w]
 0.0.0.0 s.w.org
 
-# [histats]
+#     [histats]
 0.0.0.0 s10.histats.com
 
-# [postimg]
+#     [postimg]
 0.0.0.0 s6.postimg.cc
 
-# [addthis]
+#     [addthis]
 0.0.0.0 s7.addthis.com
 
-# [ziggo]
+#     [ziggo]
 0.0.0.0 s.ziggo.nl
 0.0.0.0 m.ziggo.nl
 0.0.0.0 www.ziggo.nl
 
-# [provely]
+#     [provely]
 0.0.0.0 app.provely.io
 
-# [kevintimmerdaytrading]
+#     [kevintimmerdaytrading]
 0.0.0.0 www.kevintimmerdaytrading.nl
 
-# [parajumpers]
+#     [parajumpers]
 0.0.0.0 www.parajumpers.it
 
-# [jacks]
+#     [jacks]
 0.0.0.0 jacks.nl
 
-# [ad]
+#     [ad]
 0.0.0.0 ad.nl
 
-# [co]
+#     [co]
 0.0.0.0 ad-delivery.co.uk
 
-# [staradvertiser]
+#     [staradvertiser]
 0.0.0.0 staradvertiser.com
 
-# [doubleclick]
+#     [doubleclick]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad.doubleclick.net
@@ -127,55 +127,55 @@
 0.0.0.0 8937654.fls.doubleclick.net
 0.0.0.0 9835822.fls.doubleclick.net
 
-# [ikwordvrachtwagenchauffeur]
+#     [ikwordvrachtwagenchauffeur]
 0.0.0.0 ikwordvrachtwagenchauffeur.nl
 
-# [viaplay]
+#     [viaplay]
 0.0.0.0 viaplay.com
 
-# [youtube]
+#     [youtube]
 0.0.0.0 ads.youtube.com
 
-# [googlesyndication]
+#     [googlesyndication]
 0.0.0.0 ade.googlesyndication.com
 
-# [google]
+#     [google]
 0.0.0.0 dl.google.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 adservice.google.com
 
-# [googleadservices]
+#     [googleadservices]
 0.0.0.0 googleadservices.com
 
-# [proftrafficcounter]
+#     [proftrafficcounter]
 0.0.0.0 proftrafficcounter.com
 
-# [linkedin]
+#     [linkedin]
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px4.ads.linkedin.com
 
-# [threatminer]
+#     [threatminer]
 0.0.0.0 www.threatminer.org
 
-# [campagne]
+#     [campagne]
 0.0.0.0 vps1.campagne.nl
 
-# [pubmatic]
+#     [pubmatic]
 0.0.0.0 ads.pubmatic.com
 
-# [tiktok]
+#     [tiktok]
 0.0.0.0 ads.tiktok.com
 
-# [yieldmo]
+#     [yieldmo]
 0.0.0.0 ads.yieldmo.com
 
-# [adcolony]
+#     [adcolony]
 0.0.0.0 ads30.adcolony.com
 
-# [media]
+#     [media]
 0.0.0.0 adservetx.media.net
 
-# [amazonaws]
+#     [amazonaws]
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 aax-fe-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us-west.amazon-adsystem.com
@@ -191,24 +191,24 @@
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
 
-# [money2work]
+#     [money2work]
 0.0.0.0 go.money2work.com
 
-# [jumbo]
+#     [jumbo]
 0.0.0.0 s.jumbo.com
 0.0.0.0 m.jumbo.com
 0.0.0.0 static-images.jumbo.com
 
-# [ads]
+#     [ads]
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.nl
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 events.ads.vungle.com
 
-# [smartadserver]
+#     [smartadserver]
 0.0.0.0 rtb-csync.smartadserver.com
 
-# [adform]
+#     [adform]
 0.0.0.0 adx.adform.net
 0.0.0.0 a2-38-65-20-19.adform.net
 0.0.0.0 adx3.adform.net
