@@ -1,222 +1,222 @@
 # [ad-delivery]
-127.0.0.1 ad-delivery.net
-127.0.0.1 ad-delivery.com
-127.0.0.1 ad-delivery.co.uk
+0.0.0.0 ad-delivery.net
+0.0.0.0 ad-delivery.com
+0.0.0.0 ad-delivery.co.uk
 
 # [ah]
-127.0.0.1 s.ah.nl
-127.0.0.1 m.ah.nl
-127.0.0.1 static-ah.nl
+0.0.0.0 s.ah.nl
+0.0.0.0 m.ah.nl
+0.0.0.0 static-ah.nl
 
 # [adroll]
-127.0.0.1 s.adroll.com
+0.0.0.0 s.adroll.com
 
 # [deepl]
-127.0.0.1 s.deepl.com
+0.0.0.0 s.deepl.com
 
 # [gishan]
-127.0.0.1 s.gishan.cc
+0.0.0.0 s.gishan.cc
 
 # [mpulse]
-127.0.0.1 s.go-mpulse.net
-127.0.0.1 s2.go-mpulse.net
+0.0.0.0 s.go-mpulse.net
+0.0.0.0 s2.go-mpulse.net
 
 # [lenovo]
-127.0.0.1 s.lenovo.com
+0.0.0.0 s.lenovo.com
 
 # [magsrv]
-127.0.0.1 s.magsrv.com
+0.0.0.0 s.magsrv.com
 
 # [bol]
-127.0.0.1 s.s-bol.com
+0.0.0.0 s.s-bol.com
 
 # [w]
-127.0.0.1 s.w.org
+0.0.0.0 s.w.org
 
 # [histats]
-127.0.0.1 s10.histats.com
+0.0.0.0 s10.histats.com
 
 # [postimg]
-127.0.0.1 s6.postimg.cc
+0.0.0.0 s6.postimg.cc
 
 # [addthis]
-127.0.0.1 s7.addthis.com
+0.0.0.0 s7.addthis.com
 
 # [ziggo]
-127.0.0.1 s.ziggo.nl
-127.0.0.1 m.ziggo.nl
-127.0.0.1 www.ziggo.nl
+0.0.0.0 s.ziggo.nl
+0.0.0.0 m.ziggo.nl
+0.0.0.0 www.ziggo.nl
 
 # [provely]
-127.0.0.1 app.provely.io
+0.0.0.0 app.provely.io
 
 # [kevintimmerdaytrading]
-127.0.0.1 www.kevintimmerdaytrading.nl
+0.0.0.0 www.kevintimmerdaytrading.nl
 
 # [parajumpers]
-127.0.0.1 www.parajumpers.it
+0.0.0.0 www.parajumpers.it
 
 # [jacks]
-127.0.0.1 jacks.nl
+0.0.0.0 jacks.nl
 
 # [ad]
-127.0.0.1 ad.nl
+0.0.0.0 ad.nl
 
 # [co]
-127.0.0.1 ad-delivery.co.uk
+0.0.0.0 ad-delivery.co.uk
 
 # [staradvertiser]
-127.0.0.1 staradvertiser.com
+0.0.0.0 staradvertiser.com
 
 # [doubleclick]
-127.0.0.1 doubleclick.net
-127.0.0.1 accounts.doubleclick.net
-127.0.0.1 ad.doubleclick.net
-127.0.0.1 ad-emea.doubleclick.net
-127.0.0.1 ff.doubleclick.net
-127.0.0.1 fls.doubleclick.net
-127.0.0.1 g.doubleclick.net
-127.0.0.1 adx.g.doubleclick.net
-127.0.0.1 bid.g.doubleclick.net
-127.0.0.1 cm.g.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 googleads4.g.doubleclick.net
-127.0.0.1 pubads.g.doubleclick.net
-127.0.0.1 securepubads.g.doubleclick.net
-127.0.0.1 stats.g.doubleclick.net
-127.0.0.1 survey.g.doubleclick.net
-127.0.0.1 dart.l.doubleclick.net
-127.0.0.1 m.doubleclick.net
-127.0.0.1 s0.doubleclick.net
-127.0.0.1 static.doubleclick.net
-127.0.0.1 stats.l.doubleclick.net
-127.0.0.1 advertisers.l.doubleclick.net 
-127.0.0.1 dart-ad.l.doubleclick.net
-127.0.0.1 dart-apac.l.doubleclick.net
-127.0.0.1 mobile-displayads.l.doubleclick.net
-127.0.0.1 pagead.l.doubleclick.net
-127.0.0.1 pagead46.l.doubleclick.net
-127.0.0.1 partnerad.l.doubleclick.net
-127.0.0.1 rich-media-dynamic-ads-api.l.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 10744046.fls.doubleclick.net
-127.0.0.1 11821217.fls.doubleclick.net
-127.0.0.1 10744046.fls.doubleclick.net
-127.0.0.1 dart.l.doubleclick.net
-127.0.0.1 3662625.fls.doubleclick.net
-127.0.0.1 4440954.fls.doubleclick.net
-127.0.0.1 4754223.fls.doubleclick.net
-127.0.0.1 5169604.fls.doubleclick.net
-127.0.0.1 5546714.fls.doubleclick.net
-127.0.0.1 6355556.fls.doubleclick.net
-127.0.0.1 8006110.fls.doubleclick.net
-127.0.0.1 8463158.fls.doubleclick.net
-127.0.0.1 9075940.fls.doubleclick.net
-127.0.0.1 9954979.fls.doubleclick.net
-127.0.0.1 5290727.fls.doubleclick.net
-127.0.0.1 8168974.fls.doubleclick.net
-127.0.0.1 8397396.fls.doubleclick.net
-127.0.0.1 3644751.fls.doubleclick.net
-127.0.0.1 4672033.fls.doubleclick.net
-127.0.0.1 5129149.fls.doubleclick.net
-127.0.0.1 5504333.fls.doubleclick.net
-127.0.0.1 6103523.fls.doubleclick.net
-127.0.0.1 6926959.fls.doubleclick.net
-127.0.0.1 8170248.fls.doubleclick.net
-127.0.0.1 8278689.fls.doubleclick.net
-127.0.0.1 8937654.fls.doubleclick.net
-127.0.0.1 9835822.fls.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ff.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 s0.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 advertisers.l.doubleclick.net 
+0.0.0.0 dart-ad.l.doubleclick.net
+0.0.0.0 dart-apac.l.doubleclick.net
+0.0.0.0 mobile-displayads.l.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 rich-media-dynamic-ads-api.l.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 10744046.fls.doubleclick.net
+0.0.0.0 11821217.fls.doubleclick.net
+0.0.0.0 10744046.fls.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 3662625.fls.doubleclick.net
+0.0.0.0 4440954.fls.doubleclick.net
+0.0.0.0 4754223.fls.doubleclick.net
+0.0.0.0 5169604.fls.doubleclick.net
+0.0.0.0 5546714.fls.doubleclick.net
+0.0.0.0 6355556.fls.doubleclick.net
+0.0.0.0 8006110.fls.doubleclick.net
+0.0.0.0 8463158.fls.doubleclick.net
+0.0.0.0 9075940.fls.doubleclick.net
+0.0.0.0 9954979.fls.doubleclick.net
+0.0.0.0 5290727.fls.doubleclick.net
+0.0.0.0 8168974.fls.doubleclick.net
+0.0.0.0 8397396.fls.doubleclick.net
+0.0.0.0 3644751.fls.doubleclick.net
+0.0.0.0 4672033.fls.doubleclick.net
+0.0.0.0 5129149.fls.doubleclick.net
+0.0.0.0 5504333.fls.doubleclick.net
+0.0.0.0 6103523.fls.doubleclick.net
+0.0.0.0 6926959.fls.doubleclick.net
+0.0.0.0 8170248.fls.doubleclick.net
+0.0.0.0 8278689.fls.doubleclick.net
+0.0.0.0 8937654.fls.doubleclick.net
+0.0.0.0 9835822.fls.doubleclick.net
 
 # [ikwordvrachtwagenchauffeur]
-127.0.0.1 ikwordvrachtwagenchauffeur.nl
+0.0.0.0 ikwordvrachtwagenchauffeur.nl
 
 # [viaplay]
-127.0.0.1 viaplay.com
+0.0.0.0 viaplay.com
 
 # [youtube]
-127.0.0.1 ads.youtube.com
+0.0.0.0 ads.youtube.com
 
 # [googlesyndication]
-127.0.0.1 ade.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
 
 # [google]
-127.0.0.1 dl.google.com
-127.0.0.1 suggestqueries.google.com
-127.0.0.1 adservice.google.com
+0.0.0.0 dl.google.com
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 adservice.google.com
 
 # [googleadservices]
-127.0.0.1 googleadservices.com
+0.0.0.0 googleadservices.com
 
 # [proftrafficcounter]
-127.0.0.1 proftrafficcounter.com
+0.0.0.0 proftrafficcounter.com
 
 # [linkedin]
-127.0.0.1 px.ads.linkedin.com
-127.0.0.1 px4.ads.linkedin.com
+0.0.0.0 px.ads.linkedin.com
+0.0.0.0 px4.ads.linkedin.com
 
 # [threatminer]
-127.0.0.1 www.threatminer.org
+0.0.0.0 www.threatminer.org
 
 # [campagne]
-127.0.0.1 vps1.campagne.nl
+0.0.0.0 vps1.campagne.nl
 
 # [pubmatic]
-127.0.0.1 ads.pubmatic.com
+0.0.0.0 ads.pubmatic.com
 
 # [tiktok]
-127.0.0.1 ads.tiktok.com
+0.0.0.0 ads.tiktok.com
 
 # [yieldmo]
-127.0.0.1 ads.yieldmo.com
+0.0.0.0 ads.yieldmo.com
 
 # [adcolony]
-127.0.0.1 ads30.adcolony.com
+0.0.0.0 ads30.adcolony.com
 
 # [media]
-adservetx.media.net
+0.0.0.0 adservetx.media.net
 
 # [amazonaws]
-127.0.0.1 s.amazon-adsystem.com
-127.0.0.1 aax-fe-retail-direct.amazon-adsystem.com
-127.0.0.1 aax-us-west.amazon-adsystem.com
-127.0.0.1 cdn-t.amazon-adsystem.com
-127.0.0.1 imdb.amazon-adsystem.com
-127.0.0.1 ir-fr.amazon-adsystem.com
-127.0.0.1 mads.amazon-adsystem.com
-127.0.0.1 rcm-na.amazon-adsystem.com
-127.0.0.1 vq-us-east-1.amazon-adsystem.com
-127.0.0.1 ws-fe.amazon-adsystem.com
-127.0.0.1 z-na.amazon-adsystem.com
-127.0.0.1 s3.eu-central-1.amazonaws.com
-127.0.0.1 adtago.s3.amazonaws.com
-127.0.0.1 advertising-api-eu.amazon.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 aax-fe-retail-direct.amazon-adsystem.com
+0.0.0.0 aax-us-west.amazon-adsystem.com
+0.0.0.0 cdn-t.amazon-adsystem.com
+0.0.0.0 imdb.amazon-adsystem.com
+0.0.0.0 ir-fr.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 vq-us-east-1.amazon-adsystem.com
+0.0.0.0 ws-fe.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 s3.eu-central-1.amazonaws.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
 
 # [money2work]
-127.0.0.1 go.money2work.com
+0.0.0.0 go.money2work.com
 
 # [jumbo]
-127.0.0.1 s.jumbo.com
-127.0.0.1 m.jumbo.com
-127.0.0.1 static-images.jumbo.com
+0.0.0.0 s.jumbo.com
+0.0.0.0 m.jumbo.com
+0.0.0.0 static-images.jumbo.com
 
 # [ads]
-127.0.0.1 adservice.google.com
-127.0.0.1 adservice.google.nl
-127.0.0.1 ads.eu.criteo.com
-127.0.0.1 events.ads.vungle.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.nl
+0.0.0.0 ads.eu.criteo.com
+0.0.0.0 events.ads.vungle.com
 
 # [smartadserver]
-127.0.0.1 rtb-csync.smartadserver.com
+0.0.0.0 rtb-csync.smartadserver.com
 
 # [adform]
-127.0.0.1 adx.adform.net
-127.0.0.1 a2-38-65-20-19.adform.net
-127.0.0.1 adx3.adform.net
-127.0.0.1 carrefour.adform.net
-127.0.0.1 cm3.adform.net
-127.0.0.1 edc.adform.net
-127.0.0.1 hm.adform.net
-127.0.0.1 mail1.adform.net
-127.0.0.1 s2.adform.net
-127.0.0.1 track.adform.net
-127.0.0.1 xd.adform.net
+0.0.0.0 adx.adform.net
+0.0.0.0 a2-38-65-20-19.adform.net
+0.0.0.0 adx3.adform.net
+0.0.0.0 carrefour.adform.net
+0.0.0.0 cm3.adform.net
+0.0.0.0 edc.adform.net
+0.0.0.0 hm.adform.net
+0.0.0.0 mail1.adform.net
+0.0.0.0 s2.adform.net
+0.0.0.0 track.adform.net
+0.0.0.0 xd.adform.net
