@@ -1,222 +1,218 @@
-#     [ad-delivery]
-0.0.0.0 ad-delivery.net
-0.0.0.0 ad-delivery.com
-0.0.0.0 ad-delivery.co.uk
+#============ Ads =============
 
-#     [ah]
-0.0.0.0 s.ah.nl
-0.0.0.0 m.ah.nl
-0.0.0.0 static-ah.nl
-
-#     [adroll]
-0.0.0.0 s.adroll.com
-
-#     [deepl]
-0.0.0.0 s.deepl.com
-
-#     [gishan]
-0.0.0.0 s.gishan.cc
-
-#     [mpulse]
-0.0.0.0 s.go-mpulse.net
-0.0.0.0 s2.go-mpulse.net
-
-#     [lenovo]
-0.0.0.0 s.lenovo.com
-
-#     [magsrv]
-0.0.0.0 s.magsrv.com
-
-#     [bol]
-0.0.0.0 s.s-bol.com
-
-#     [w]
-0.0.0.0 s.w.org
-
-#     [histats]
-0.0.0.0 s10.histats.com
-
-#     [postimg]
-0.0.0.0 s6.postimg.cc
-
-#     [addthis]
-0.0.0.0 s7.addthis.com
-
-#     [ziggo]
-0.0.0.0 s.ziggo.nl
-0.0.0.0 m.ziggo.nl
-0.0.0.0 www.ziggo.nl
-
-#     [provely]
-0.0.0.0 app.provely.io
-
-#     [kevintimmerdaytrading]
-0.0.0.0 www.kevintimmerdaytrading.nl
-
-#     [parajumpers]
-0.0.0.0 www.parajumpers.it
-
-#     [jacks]
-0.0.0.0 jacks.nl
-
-#     [ad]
-0.0.0.0 ad.nl
-
-#     [co]
-0.0.0.0 ad-delivery.co.uk
-
-#     [staradvertiser]
-0.0.0.0 staradvertiser.com
-
-#     [doubleclick]
-0.0.0.0 doubleclick.net
-0.0.0.0 accounts.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 ad-emea.doubleclick.net
-0.0.0.0 ff.doubleclick.net
-0.0.0.0 fls.doubleclick.net
-0.0.0.0 g.doubleclick.net
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 survey.g.doubleclick.net
-0.0.0.0 dart.l.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 s0.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 stats.l.doubleclick.net
-0.0.0.0 advertisers.l.doubleclick.net 
-0.0.0.0 dart-ad.l.doubleclick.net
-0.0.0.0 dart-apac.l.doubleclick.net
-0.0.0.0 mobile-displayads.l.doubleclick.net
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 rich-media-dynamic-ads-api.l.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 10744046.fls.doubleclick.net
-0.0.0.0 11821217.fls.doubleclick.net
-0.0.0.0 10744046.fls.doubleclick.net
-0.0.0.0 dart.l.doubleclick.net
-0.0.0.0 3662625.fls.doubleclick.net
-0.0.0.0 4440954.fls.doubleclick.net
-0.0.0.0 4754223.fls.doubleclick.net
-0.0.0.0 5169604.fls.doubleclick.net
-0.0.0.0 5546714.fls.doubleclick.net
-0.0.0.0 6355556.fls.doubleclick.net
-0.0.0.0 8006110.fls.doubleclick.net
-0.0.0.0 8463158.fls.doubleclick.net
-0.0.0.0 9075940.fls.doubleclick.net
-0.0.0.0 9954979.fls.doubleclick.net
-0.0.0.0 5290727.fls.doubleclick.net
-0.0.0.0 8168974.fls.doubleclick.net
-0.0.0.0 8397396.fls.doubleclick.net
-0.0.0.0 3644751.fls.doubleclick.net
-0.0.0.0 4672033.fls.doubleclick.net
-0.0.0.0 5129149.fls.doubleclick.net
-0.0.0.0 5504333.fls.doubleclick.net
-0.0.0.0 6103523.fls.doubleclick.net
-0.0.0.0 6926959.fls.doubleclick.net
-0.0.0.0 8170248.fls.doubleclick.net
-0.0.0.0 8278689.fls.doubleclick.net
-0.0.0.0 8937654.fls.doubleclick.net
-0.0.0.0 9835822.fls.doubleclick.net
-
-#     [ikwordvrachtwagenchauffeur]
-0.0.0.0 ikwordvrachtwagenchauffeur.nl
-
-#     [viaplay]
-0.0.0.0 viaplay.com
-
-#     [youtube]
-0.0.0.0 ads.youtube.com
-
-#     [googlesyndication]
-0.0.0.0 ade.googlesyndication.com
-
-#     [google]
-0.0.0.0 dl.google.com
-0.0.0.0 suggestqueries.google.com
-0.0.0.0 adservice.google.com
-
-#     [googleadservices]
-0.0.0.0 googleadservices.com
-
-#     [proftrafficcounter]
-0.0.0.0 proftrafficcounter.com
-
-#     [linkedin]
-0.0.0.0 px.ads.linkedin.com
-0.0.0.0 px4.ads.linkedin.com
-
-#     [threatminer]
-0.0.0.0 www.threatminer.org
-
-#     [campagne]
-0.0.0.0 vps1.campagne.nl
-
-#     [pubmatic]
-0.0.0.0 ads.pubmatic.com
-
-#     [tiktok]
-0.0.0.0 ads.tiktok.com
-
-#     [yieldmo]
-0.0.0.0 ads.yieldmo.com
-
-#     [adcolony]
-0.0.0.0 ads30.adcolony.com
-
-#     [media]
-0.0.0.0 adservetx.media.net
-
-#     [amazonaws]
-0.0.0.0 s.amazon-adsystem.com
-0.0.0.0 aax-fe-retail-direct.amazon-adsystem.com
-0.0.0.0 aax-us-west.amazon-adsystem.com
-0.0.0.0 cdn-t.amazon-adsystem.com
-0.0.0.0 imdb.amazon-adsystem.com
-0.0.0.0 ir-fr.amazon-adsystem.com
-0.0.0.0 mads.amazon-adsystem.com
-0.0.0.0 rcm-na.amazon-adsystem.com
-0.0.0.0 vq-us-east-1.amazon-adsystem.com
-0.0.0.0 ws-fe.amazon-adsystem.com
-0.0.0.0 z-na.amazon-adsystem.com
-0.0.0.0 s3.eu-central-1.amazonaws.com
+# --- Amazon
 0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
 
-#     [money2work]
-0.0.0.0 go.money2work.com
-
-#     [jumbo]
-0.0.0.0 s.jumbo.com
-0.0.0.0 m.jumbo.com
-0.0.0.0 static-images.jumbo.com
-
-#     [ads]
+# --- Google Ads
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.nl
-0.0.0.0 ads.eu.criteo.com
-0.0.0.0 events.ads.vungle.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
 
-#     [smartadserver]
-0.0.0.0 rtb-csync.smartadserver.com
+# --- Doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 ad-ace.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 betareportcentral.doubleclick.net
+0.0.0.0 dfp.doubleclick.net
+0.0.0.0 n479ad.doubleclick.net
+0.0.0.0 thngw2.doubleclick.net
 
-#     [adform]
-0.0.0.0 adx.adform.net
-0.0.0.0 a2-38-65-20-19.adform.net
-0.0.0.0 adx3.adform.net
-0.0.0.0 carrefour.adform.net
-0.0.0.0 cm3.adform.net
-0.0.0.0 edc.adform.net
-0.0.0.0 hm.adform.net
-0.0.0.0 mail1.adform.net
-0.0.0.0 s2.adform.net
-0.0.0.0 track.adform.net
-0.0.0.0 xd.adform.net
+# --- Adcolony
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
+
+# --- Media.net
+0.0.0.0 static.media.net
+0.0.0.0 media.net
+0.0.0.0 adservetx.media.net
+
+
+#========= Analytics ==========
+
+# --- Google Analytics
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+
+# --- Hotjar
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 careers.hotjar.com
+0.0.0.0 events.hotjar.io
+
+# --- MouseFlow
+0.0.0.0 mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 o2.mouseflow.com
+0.0.0.0 gtm.mouseflow.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+
+# --- FreshWorks
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+# --- Luckyorange
+0.0.0.0 luckyorange.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+
+# --- Stats WP Plugin
+0.0.0.0 stats.wp.com
+
+
+#======= Error Trackers =======
+
+# --- Bugsnag
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+
+# --- Sentry
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+
+
+#====== Social Trackers =======
+
+# --- Facebook
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+
+# --- Twitter
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+
+# --- LinkedIn
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+
+# --- Pinterest
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 widgets.pinterest.com
+
+# --- Reddit
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+
+# --- YouTube
+0.0.0.0 ads.youtube.com
+
+# --- TikTok
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 log.byteoversea.com
+
+
+#============ Mix =============
+
+# --- Yahoo
+0.0.0.0 ads.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 advertising.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+
+# --- Yandex
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+
+# --- Unity
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+
+
+#============ OEMs ============
+
+# --- Realme
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+
+# --- Xiaomi
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.rus.miui.com
+
+# --- Oppo
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+
+# --- Huawei
+0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+
+# --- OnePlus
+0.0.0.0 click.oneplus.cn
+0.0.0.0 open.oneplus.net
+
+# --- Samsung
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
+
+# --- Apple
+0.0.0.0 advertising.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
