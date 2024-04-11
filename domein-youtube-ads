@@ -1,218 +1,269 @@
-#============ Ads =============
+!============ Ads =============
 
-# --- Amazon
-adtago.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-advice-ads.s3.amazonaws.com
-advertising-api-eu.amazon.com
+! --- Amazon
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
 
-# --- Google Ads
-pagead2.googlesyndication.com
-adservice.google.com
-pagead2.googleadservices.com
-afs.googlesyndication.com
+! --- Google Ads
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+||afs.googlesyndication.com^
 
-# --- Doubleclick.net
-stats.g.doubleclick.net
-ad.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
-ad-ace.doubleclick.net
-ad-g.doubleclick.net
-betareportcentral.doubleclick.net
-dfp.doubleclick.net
-n479ad.doubleclick.net
-thngw2.doubleclick.net
-
-# --- Adcolony
-ads30.adcolony.com
-adc3-launch.adcolony.com
-events3alt.adcolony.com
-wd.adcolony.com
-
-# --- Media.net
-static.media.net
-media.net
-adservetx.media.net
-
-
-#========= Analytics ==========
-
-# --- Google Analytics
-analytics.google.com
-click.googleanalytics.com
-google-analytics.com
-ssl.google-analytics.com
-
-# --- Hotjar
-adm.hotjar.com
-identify.hotjar.com
-insights.hotjar.com
-script.hotjar.com
-surveys.hotjar.com
-careers.hotjar.com
-events.hotjar.io
-
-# --- MouseFlow
-mouseflow.com
-cdn.mouseflow.com
-o2.mouseflow.com
-gtm.mouseflow.com
-api.mouseflow.com
-tools.mouseflow.com
-cdn-test.mouseflow.com
-
-# --- FreshWorks
-freshmarketer.com
-claritybt.freshmarketer.com
-fwtracks.freshmarketer.com
-
-# --- Luckyorange
-luckyorange.com
-api.luckyorange.com
-realtime.luckyorange.com
-cdn.luckyorange.com
-w1.luckyorange.com
-upload.luckyorange.net
-cs.luckyorange.net
-settings.luckyorange.net
-
-# --- Stats WP Plugin
-0.0.0.0 stats.wp.com
+! --- Doubleclick.net
+||stats.g.doubleclick.net^
+||ad.doubleclick.net^
+||static.doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||doubleclick.net^
+||accounts.doubleclick.net^
+||ad.doubleclick.net^
+||ad-emea.doubleclick.net^
+||ff.doubleclick.net^
+||fls.doubleclick.net^
+||g.doubleclick.net^
+||adx.g.doubleclick.net^
+||bid.g.doubleclick.net^
+||cm.g.doubleclick.net^
+||googleads.g.doubleclick.net^
+||googleads4.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||stats.g.doubleclick.net^
+||survey.g.doubleclick.net^
+||dart.l.doubleclick.net^
+||s0.doubleclick.net^
+||static.doubleclick.net^
+||stats.l.doubleclick.net^
+||advertisers.l.doubleclick.net^
+||dart-ad.l.doubleclick.net^
+||dart-apac.l.doubleclick.net^
+||mobile-displayads.l.doubleclick.net^
+||pagead.l.doubleclick.net^
+||pagead46.l.doubleclick.net^
+||partnerad.l.doubleclick.net^
+||rich-media-dynamic-ads-api.l.doubleclick.net^
+||googleads.g.doubleclick.net^
+||10744046.fls.doubleclick.net^
+||11821217.fls.doubleclick.net^
+||10744046.fls.doubleclick.net^
+||dart.l.doubleclick.net^
+||3662625.fls.doubleclick.net^
+||4440954.fls.doubleclick.net^
+||4754223.fls.doubleclick.net^
+||5169604.fls.doubleclick.net^
+||5546714.fls.doubleclick.net^
+||6355556.fls.doubleclick.net^
+||8006110.fls.doubleclick.net^
+||8463158.fls.doubleclick.net^
+||9075940.fls.doubleclick.net^
+||9954979.fls.doubleclick.net^
+||5290727.fls.doubleclick.net^
+||8168974.fls.doubleclick.net^
+||8397396.fls.doubleclick.net^
+||3644751.fls.doubleclick.net^
+||4672033.fls.doubleclick.net^
+||5129149.fls.doubleclick.net^
+||5504333.fls.doubleclick.net^
+||6103523.fls.doubleclick.net^
+||6926959.fls.doubleclick.net^
+||8170248.fls.doubleclick.net^
+||8278689.fls.doubleclick.net^
+||8937654.fls.doubleclick.net^
+||9835822.fls.doubleclick.net^
 
 
-#======= Error Trackers =======
+! --- Adcolony
+||ads30.adcolony.com^
+||adc3-launch.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
 
-# --- Bugsnag
-notify.bugsnag.com
-sessions.bugsnag.com
-api.bugsnag.com
-app.bugsnag.com
-
-# --- Sentry
-browser.sentry-cdn.com
-app.getsentry.com
-
-
-#====== Social Trackers =======
-
-# --- Facebook
-pixel.facebook.com
-an.facebook.com
-
-# --- Twitter
-static.ads-twitter.com
-ads-api.twitter.com
-
-# --- LinkedIn
-0.0.0.0 ads.linkedin.com
-0.0.0.0 analytics.pointdrive.linkedin.com
-
-# --- Pinterest
-ads.pinterest.com
-log.pinterest.com
-analytics.pinterest.com
-trk.pinterest.com
-widgets.pinterest.com
-
-# --- Reddit
-events.reddit.com
-events.redditmedia.com
-
-# --- YouTube
-ads.youtube.com
-
-# --- TikTok
-ads-api.tiktok.com
-analytics.tiktok.com
-ads-sg.tiktok.com
-analytics-sg.tiktok.com
-business-api.tiktok.com
-ads.tiktok.com
-log.byteoversea.com
+! --- Media.net
+||static.media.net^
+||media.net^
+||adservetx.media.net^
 
 
-#============ Mix =============
+!========= Analytics ==========
 
-# --- Yahoo
-ads.yahoo.com
-analytics.yahoo.com
-geo.yahoo.com
-udc.yahoo.com
-udcm.yahoo.com
-advertising.yahoo.com
-analytics.query.yahoo.com
-partnerads.ysm.yahoo.com
-log.fc.yahoo.com
-gemini.yahoo.com
-adtech.yahooinc.com
+! --- Google Analytics
+||analytics.google.com^
+||click.googleanalytics.com^
+||google-analytics.com^
+||ssl.google-analytics.com^
 
-# --- Yandex
-extmaps-api.yandex.net
-appmetrica.yandex.ru
-adfstat.yandex.ru
-metrika.yandex.ru
-advertising.yandex.ru
-offerwall.yandex.net
-adfox.yandex.ru
+! --- Hotjar
+||adm.hotjar.com^
+||identify.hotjar.com^
+||insights.hotjar.com^
+||script.hotjar.com^
+||surveys.hotjar.com^
+||careers.hotjar.com^
+||events.hotjar.io^
 
-# --- Unity
-auction.unityads.unity3d.com
-webview.unityads.unity3d.com
-config.unityads.unity3d.com
-adserver.unityads.unity3d.com
+! --- MouseFlow
+||mouseflow.com^
+||cdn.mouseflow.com^
+||o2.mouseflow.com^
+||gtm.mouseflow.com^
+||api.mouseflow.com^
+||tools.mouseflow.com^
+||cdn-test.mouseflow.com^
+
+! --- FreshWorks
+||freshmarketer.com^
+||claritybt.freshmarketer.com^
+||fwtracks.freshmarketer.com^
+
+! --- Luckyorange
+||luckyorange.com^
+||api.luckyorange.com^
+||realtime.luckyorange.com^
+||cdn.luckyorange.com^
+||w1.luckyorange.com^
+||upload.luckyorange.net^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+
+! --- Stats WP Plugin
+||stats.wp.com^
 
 
-#============ OEMs ============
+!======= Error Trackers =======
 
-# --- Realme
-iot-eu-logser.realme.com
-iot-logser.realme.com
-bdapi-ads.realmemobile.com
-bdapi-in-ads.realmemobile.com
+! --- Bugsnag
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||api.bugsnag.com^
+||app.bugsnag.com^
 
-# --- Xiaomi
-api.ad.xiaomi.com
-data.mistat.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-tracking.rus.miui.com
+! --- Sentry
+||browser.sentry-cdn.com^
+||app.getsentry.com^
 
-# --- Oppo
-adsfs.oppomobile.com
-adx.ads.oppomobile.com
-ck.ads.oppomobile.com
-data.ads.oppomobile.com
 
-# --- Huawei
-metrics.data.hicloud.com
-metrics2.data.hicloud.com
-grs.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logbak.hicloud.com
+!====== Social Trackers =======
 
-# --- OnePlus
-click.oneplus.cn
-open.oneplus.net
+! --- Facebook
+||pixel.facebook.com^
+||an.facebook.com^
 
-# --- Samsung
-samsungads.com
-smetrics.samsung.com
-nmetrics.samsung.com
-samsung-com.112.2o7.net
-analytics-api.samsunghealthcn.com
+! --- Twitter
+||static.ads-twitter.com^
+||ads-api.twitter.com^
 
-# --- Apple
-advertising.apple.com
-iadsdk.apple.com
-metrics.icloud.com
-metrics.mzstatic.com
-api-adservices.apple.com
-books-analytics-events.apple.com
-weather-analytics-events.apple.com
-notes-analytics-events.apple.com
+! --- LinkedIn
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+
+! --- Pinterest
+||ads.pinterest.com^
+||log.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+||widgets.pinterest.com^
+
+! --- Reddit
+||events.reddit.com^
+||events.redditmedia.com^
+
+! --- YouTube
+||ads.youtube.com^
+
+! --- TikTok
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||log.byteoversea.com^
+
+
+!============ Mix =============
+
+! --- Yahoo
+||ads.yahoo.com^
+||analytics.yahoo.com^
+||geo.yahoo.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||advertising.yahoo.com^
+||analytics.query.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||log.fc.yahoo.com^
+||gemini.yahoo.com^
+||adtech.yahooinc.com^
+
+! --- Yandex
+||extmaps-api.yandex.net^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||advertising.yandex.ru^
+||offerwall.yandex.net^
+||adfox.yandex.ru^
+
+! --- Unity
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+
+
+!============ OEMs ============
+
+! --- Realme
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+
+! --- Xiaomi
+||api.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||tracking.rus.miui.com^
+
+! --- Oppo
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+
+! --- Huawei
+||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||grs.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||logbak.hicloud.com^
+
+! --- OnePlus
+||click.oneplus.cn^
+||open.oneplus.net^
+
+! --- Samsung
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||analytics-api.samsunghealthcn.com^
+
+! --- Apple
+||advertising.apple.com^
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
