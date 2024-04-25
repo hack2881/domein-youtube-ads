@@ -1,5 +1,4 @@
 !============ Ads =============
-
 ! --- Amazon
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -12,6 +11,17 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
+--------------------------------
+||googleadservices.com^
+||doubleclick.net^
+||googlesyndication.com^
+||googletagservices.com^
+||google-analytics.com^
+||adwords.google.com^
+||pagead.l.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||adservice.google.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -76,7 +86,6 @@
 ||8937654.fls.doubleclick.net^
 ||9835822.fls.doubleclick.net^
 
-
 ! --- Adcolony
 ||ads30.adcolony.com^
 ||adc3-launch.adcolony.com^
@@ -87,7 +96,6 @@
 ||static.media.net^
 ||media.net^
 ||adservetx.media.net^
-
 
 !========= Analytics ==========
 
@@ -133,7 +141,6 @@
 ! --- Stats WP Plugin
 ||stats.wp.com^
 
-
 !======= Error Trackers =======
 
 ! --- Bugsnag
@@ -145,7 +152,6 @@
 ! --- Sentry
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
-
 
 !====== Social Trackers =======
 
@@ -174,6 +180,8 @@
 
 ! --- YouTube
 ||ads.youtube.com^
+||youtube.com/ads/^
+||youtu.be^
 
 ! --- TikTok
 ||ads-api.tiktok.com^
@@ -183,7 +191,6 @@
 ||business-api.tiktok.com^
 ||ads.tiktok.com^
 ||log.byteoversea.com^
-
 
 !============ Mix =============
 
@@ -214,7 +221,6 @@
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
 ||adserver.unityads.unity3d.com^
-
 
 !============ OEMs ============
 
