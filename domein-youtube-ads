@@ -274,3 +274,21 @@
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
+
+! --- snapchat.com
+
+||adsapi.snapchat.com^
+||asia-southeast1-gcp.api.snapchat.com^
+||aws-cf.api.snapchat.com^
+||aws.api.snapchat.com^
+||api.usabilla.com^
+||app-analytics.snapchat.com^
+||app-analytics-v2.snapchat.com^
+||euw.adserver.snapads.com^
+||ads-interfaces.sc-cdn.net^
+||ase.adserver.snapads.com^
+||usc.adserver.snapads.com^
+||usc.adserver.snapads.com^
+||use.adserver.snapads.com^
+||snapads.com^
+||us-east1-aws.api.snapchat.com^
