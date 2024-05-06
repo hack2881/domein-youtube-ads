@@ -193,6 +193,7 @@
 ||ads.tiktok.com^
 ||log.byteoversea.com^
 ||tiktok.com^
+||(^|\.)tiktok\.com$
 
 !============ Mix =============
 
