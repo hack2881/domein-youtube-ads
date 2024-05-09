@@ -296,3 +296,8 @@
 ||us-east1-aws.api.snapchat.com^
 ||snapchat.com^
 ||(^|\.)snapchat\.com$
+
+! --- instagram.com
+
+||m.instagram.com^
+||static.cdninstagram.com^
