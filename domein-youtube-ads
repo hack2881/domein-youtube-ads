@@ -5,6 +5,10 @@
 ||analytics.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
+||m.media-amazon.com^
+||aax-eu.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||fls-na.amazon.com^
 
 ! --- Google Ads
 ||pagead2.googlesyndication.com^
@@ -318,3 +322,6 @@
 ||ads.fmoviesz.com^
 ||s.fmoviesz.com^
 ||m.fmoviesz.com^
+
+! --- imdb.com
+||s.media-imdb.com^
