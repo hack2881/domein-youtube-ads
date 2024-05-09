@@ -181,6 +181,9 @@
 ! --- Reddit
 ||events.reddit.com^
 ||events.redditmedia.com^
+||s.reddit.com^
+||m.reddit.com^
+||ads.reddit.com^
 
 ! --- YouTube
 ||ads.youtube.com^
