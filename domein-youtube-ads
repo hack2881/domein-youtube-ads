@@ -27,6 +27,8 @@
 ||pubads.g.doubleclick.net^
 ||adservice.google.com^
 ||adservice.google.nl^
+||m.google.com^
+||m.google.nl^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
