@@ -11,6 +11,8 @@
 ||fls-na.amazon.com^
 
 ! --- Google Ads
+||ads.google.*
+||adservice.google.^
 ||gstatic.com^
 ||googlesyndication.com^
 ||googleadservices.com^
