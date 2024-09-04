@@ -142,11 +142,6 @@
 !========= Analytics ==========
 
 ! --- Google Analytics
-||gstatic.com^
-||googlesyndication.com^
-||doubleclick.net^
-||googleadservices.com^
-||pagead2.googlesyndication.com^
 ||analytics.google.com^
 ||click.googleanalytics.com^
 ||google-analytics.com^
