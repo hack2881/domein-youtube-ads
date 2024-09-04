@@ -11,20 +11,16 @@
 ||fls-na.amazon.com^
 
 ! --- Google Ads
+||gstatic.com^
+||googlesyndication.com^
+||googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
---------------------------------
-||googleadservices.com^
-||doubleclick.net^
-||googlesyndication.com^
 ||googletagservices.com^
 ||google-analytics.com^
 ||adwords.google.com^
-||pagead.l.doubleclick.net^
-||securepubads.g.doubleclick.net^
-||pubads.g.doubleclick.net^
 ||adservice.google.com^
 ||adservice.google.nl^
 ||m.google.com^
