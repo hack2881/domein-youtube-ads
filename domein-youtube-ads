@@ -226,10 +226,19 @@
 ||ads.reddit.com^
 
 ! --- YouTube
+||ad.youtube.com^
 ||ads.youtube.com^
 ||youtube.com/ads/^
 ||youtu.be^
 ||s.youtube.com^
+||m.youtube.com/api/stats/ads^
+||m.youtube.com/get_video_info^
+||m.youtube.com/ptracking^
+||www.youtube.com/api/stats/ads^
+||www.youtube.com/get_video_info^
+||www.youtube.com/pagead^
+||m.youtube.com/get_midroll_info^
+||m.youtube.com/yts/jsbin/player_ias-vflMdeCeA/en_US/base.js^
 
 ! --- TikTok
 ||a2047.r.akamai.net^
