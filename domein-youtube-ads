@@ -204,6 +204,13 @@
 ||s.facebook.com^
 ||pixel.facebook.com^
 ||an.facebook.com^
+||m.prod.facebook.com^
+||m.fb.watch^
+||m.alpha.facebook.com^
+||m.beta.facebook.com^
+||m.facebook.com^
+||m.me^
+||m.fbwat.ch^
 
 ! --- Twitter
 ||static.ads-twitter.com^
