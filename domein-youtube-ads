@@ -373,9 +373,10 @@
 ||us-east1-aws.api.snapchat.com^
 ||snapchat.com^
 ||(^|\.)snapchat\.com$
+||web-gcp.api.sc-gw.com^
+||web-gcp.api.snapchat.com^
 
 ! --- instagram.com
-
 ||m.instagram.com^
 ||static.cdninstagram.com^
 
