@@ -375,6 +375,10 @@
 ||(^|\.)snapchat\.com$
 ||web-gcp.api.sc-gw.com^
 ||web-gcp.api.snapchat.com^
+||ads.snapchat.com^
+||adsapi.snapchat.com^
+||tr.snapchat.com^
+||tr6.snapchat.com^
 
 ! --- instagram.com
 ||m.instagram.com^
