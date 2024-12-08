@@ -238,8 +238,8 @@
 ||ad.youtube.com^
 ||ads.youtube.com^
 ||youtube.com/ads/^
-||youtu.be^
-||s.youtube.com^
+||youtu.*.be^
+||s.*.youtube.com^
 ||m.youtube.com/api/stats/ads^
 ||m.youtube.com/get_video_info^
 ||m.youtube.com/ptracking^
