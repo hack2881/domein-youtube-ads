@@ -398,19 +398,29 @@
 
 ! --- snapchat.com
 ||ads-interfaces.sc-cdn.net^
+||ads.snapchat.com^
+||adsapi.snapchat.com^
+||app-analytics.snapchat.com^
+||app-analytics-v2.snapchat.com^
+||api.usabilla.com^
+||advertising.snapchat.com^
+||s.snapchat.com^
+||sc-static.net^
+||snapads.com^
+||bolt-gcdn.sc-cdn.net^
+||aws-cf.api.snapchat.com^
+||aws.api.snapchat.com^
+||web-gcp.api.sc-gw.com^
+||web-gcp.api.snapchat.com^
+||tr.snapchat.com^
+||tr6.snapchat.com^
 ||us-east4-gcp.api.snapchat.com^
 ||asia-southeast1-gcp.api.snapchat.com^
 ||us-east1-aws.api.snapchat.com^
-||app-analytics.snapchat.com^
-||app-analytics-v2.snapchat.com^
-||usc.adserver.snapads.com^
-||adsapi.snapchat.com^
 ||ase.adserver.snapads.com^
 ||euw.adserver.snapads.com^
 ||usc.adserver.snapads.com^
 ||use.adserver.snapads.com^
-||snapads.com^
-||aws-cf.api.snapchat.com^
 
 ! --- instagram.com
 ||m.instagram.com^
