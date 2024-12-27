@@ -339,18 +339,19 @@
 ||ades.googlesyndication.com^
 
 ! --- TikTok
-||a2047.r.akamai.net^
-||m.tiktok.com^
+||ads.tiktok.com^
+||ads-sg.tiktok.com^
+||ads-api.tiktok.com^
 ||ads-ie.tiktokw.eu^
 ||m.tiktok.com.edgesuite.net^
-||ads-api.tiktok.com^
+||m.tiktok.com^
 ||analytics.tiktok.com^
-||ads-sg.tiktok.com^
 ||analytics-sg.tiktok.com^
 ||business-api.tiktok.com^
-||ads.tiktok.com^
 ||log.byteoversea.com^
-||tiktok.com^
+||a2047.r.akamai.net^
+||tiktok.com/ads^
+||tiktokcdn.com^
 ||(^|\.)tiktok\.com$
 
 !============ Mix =============
