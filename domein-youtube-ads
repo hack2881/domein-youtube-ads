@@ -482,6 +482,11 @@
 ||app.temu.com^
 ||snap.temu.com^
 ||snapads.temu.com^
+||youtube.com^$domain=temu.com
+||youtube.com^$domain=*.temu.com
+||youtube.com^$domain=ads.temu.com
+||googlevideo.com^$domain=temu.com
+||googlevideo.com^$domain=*.temu.com
 
 ! --- fmoviesz.to
 ||ads.fmovies24.to^
