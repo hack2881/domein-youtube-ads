@@ -482,11 +482,23 @@
 ||app.temu.com^
 ||snap.temu.com^
 ||snapads.temu.com^
+||googlevideo.com^$domain=temu.com
+||googlevideo.com^$domain=*.temu.com
 ||youtube.com^$domain=temu.com
 ||youtube.com^$domain=*.temu.com
 ||youtube.com^$domain=ads.temu.com
-||googlevideo.com^$domain=temu.com
-||googlevideo.com^$domain=*.temu.com
+||youtube.com##.ad-container
+||facebook.com##.ad-container
+||facebook.com##[data-testid="ad_unit"]
+||facebook.com##.ads-ad
+||facebook.com##.ad-placement
+||tiktok.com##.ads-ad
+||tiktok.com##.ad-container
+||tiktok.com##.ad-placement
+||snapchat.com##.ad-container
+||snapchat.com##.ads-ad
+||snapchat.com##.ad-placement
+
 
 ! --- fmoviesz.to
 ||ads.fmovies24.to^
