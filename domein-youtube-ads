@@ -225,6 +225,10 @@
 ||m.facebook.com^
 ||m.me^
 ||m.fbwat.ch^
+||facebook.com##.ad-container
+||facebook.com##[data-testid="ad_unit"]
+||facebook.com##.ads-ad
+||facebook.com##.ad-placement
 
 ! --- Twitter
 ||static.ads-twitter.com^
@@ -249,6 +253,9 @@
 ||ads.reddit.com^
 
 ! --- YouTube
+||youtube.com##.ad-container
+||youtube.com##.ad-container
+||youtube.com##.ad-placement
 ||ad.youtube.com^
 ||ads.youtube.com^
 ||youtube.com/ads/^
@@ -353,6 +360,9 @@
 ||tiktok.com/ads^
 ||tiktokcdn.com^
 ||(^|\.)tiktok\.com$
+||tiktok.com##.ads-ad
+||tiktok.com##.ad-container
+||tiktok.com##.ad-placement
 
 !============ Mix =============
 
@@ -461,10 +471,16 @@
 ||euw.adserver.snapads.com^
 ||usc.adserver.snapads.com^
 ||use.adserver.snapads.com^
+||snapchat.com##.ad-container
+||snapchat.com##.ads-ad
+||snapchat.com##.ad-placement
 
 ! --- instagram.com
 ||m.instagram.com^
 ||static.cdninstagram.com^
+||instagram.com##.ads-ad
+||instagram.com##.ad-container
+||instagram.com##.ad-placement
 
 ! ---connect.visma.com
 ||connect.visma.com^
@@ -488,18 +504,9 @@
 ||youtube.com^$domain=temu.com
 ||youtube.com^$domain=*.temu.com
 ||youtube.com^$domain=ads.temu.com
-||youtube.com##.ad-container
-||facebook.com##.ad-container
-||facebook.com##[data-testid="ad_unit"]
-||facebook.com##.ads-ad
-||facebook.com##.ad-placement
-||tiktok.com##.ads-ad
-||tiktok.com##.ad-container
-||tiktok.com##.ad-placement
-||snapchat.com##.ad-container
-||snapchat.com##.ads-ad
-||snapchat.com##.ad-placement
-
+||temu.com##.ads-ad
+||temu.com##.ad-container
+||temu.com##.ad-placement
 
 ! --- fmoviesz.to
 ||ads.fmovies24.to^
