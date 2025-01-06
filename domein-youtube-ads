@@ -450,8 +450,8 @@
 ||ads-interfaces.sc-cdn.net^
 ||ads.snapchat.com^
 ||adsapi.snapchat.com^
-||app-analytics.snapchat.com^
-||app-analytics-v2.snapchat.com^
+||app-analytics-*.snapchat.com^
+||app-analytics-v2*.snapchat.com^
 ||api.usabilla.com^
 ||advertising.snapchat.com^
 ||s.snapchat.com^
